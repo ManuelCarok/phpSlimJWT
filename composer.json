@@ -1,5 +1,6 @@
 {
     "name": "apirest/slim-jwt",
+    "description": "api con jwt",
     "require": {
         "firebase/php-jwt": "^5.0",
         "slim/slim-skeleton": "^3.1"
